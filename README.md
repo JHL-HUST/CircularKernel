@@ -11,8 +11,6 @@ Kun He, Chao Li, Yixiao Yang, Gao Huang, John E. Hopcroft\
 The square convolution kernel has been regarded as the standard and core unit of Convolutional Neural Networks (CNNs) since the first recognized CNN of *LeNet* proposed in 1989, and especially after *AlexNet* won the ILSVRC (ImageNet Large Scale Visual Recognition Competition) in 2012. Since then, various variants of convolution kernels have been proposed, including  separable convolution, dilated convolution, deformable convolution, \etc. 
 Inspired by the fact that the retinal ganglion cells in the biological visual system have approximately concentric receptive fields (RFs), we propose the concept of circular kernels for the convolution operation. A $K \times K$ circular kernel is defined as a kernel that evenly samples K<sup>2</sup> pixels on the concentric circles to form a circular receptive field. 
 
-<img src='imgs/357.pdf'/>
-
 ## Getting Started
 
 ## Environment Setup
