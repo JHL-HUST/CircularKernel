@@ -2,9 +2,8 @@
 
 We provide code and our dataset for the Paper:
 
-**[Integrating Large Circular Kernels into CNNs through Neural Architecture Search][1]**\
+**Integrating Large Circular Kernels into CNNs through Neural Architecture Search**\
 Kun He, Chao Li, Yixiao Yang, Gao Huang, John E. Hopcroft\
-[CVPR 2020]
 
 ## Introduction
 
